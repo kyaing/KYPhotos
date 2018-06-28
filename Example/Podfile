@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'KYPhotos_Example' do
+  pod 'KYPhotos', :path => '../'
+
+  target 'KYPhotos_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
