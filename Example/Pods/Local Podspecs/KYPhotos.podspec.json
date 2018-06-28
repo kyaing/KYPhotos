@@ -1,0 +1,22 @@
+{
+  "name": "KYPhotos",
+  "version": "0.1.0",
+  "summary": "A short description of KYPhotos.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/kyaing/KYPhotos",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kyaing": "kaideyi@163.com"
+  },
+  "source": {
+    "git": "https://github.com/kyaing/KYPhotos.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KYPhotos/Classes/**/*"
+}

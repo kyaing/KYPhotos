@@ -1,0 +1,6 @@
+framework module KYPhotos {
+  umbrella header "KYPhotos-umbrella.h"
+
+  export *
+  module * { export * }
+}

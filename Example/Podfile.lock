@@ -1,0 +1,16 @@
+PODS:
+  - KYPhotos (0.1.0)
+
+DEPENDENCIES:
+  - KYPhotos (from `../`)
+
+EXTERNAL SOURCES:
+  KYPhotos:
+    :path: ../
+
+SPEC CHECKSUMS:
+  KYPhotos: d5bf74c4ad08c3874055c55d47084beb9b5b632d
+
+PODFILE CHECKSUM: f5159cd024773fd8bbbc3279970f4bfe2e802318
+
+COCOAPODS: 1.4.0
